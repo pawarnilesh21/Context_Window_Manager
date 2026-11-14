@@ -1,0 +1,7 @@
+# Python requirements for backend
+
+fastapi
+uvicorn
+pydantic
+tiktoken
+python-dotenv
